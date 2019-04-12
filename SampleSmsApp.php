@@ -55,7 +55,7 @@ try {
 	$charging_amount = $amount;
 
 	//change the check value to 1 for live production
-	$check = 0;
+	$check = 1;
 
 	switch ( $check ) {
 		case 0:

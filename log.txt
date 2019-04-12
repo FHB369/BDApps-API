@@ -395,3 +395,18 @@ Recieved Parameters From Bdapps :
 [ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190411213923","address":"tel:8801866742387","requestId":"1554997163082","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554997163082","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
 [ ============================##########========================]
 [ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1555076804540
+         encoding=0
+         applicationId=APP_013320
+         message=bndhn bappy 55 2
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013320","password":"3e664b26397029f08e161690df6b7f9d","subscriberId":"tel:8801866742387","amount":"2","externalTrxId":"1555076804540","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-12T19:46:44+0600","externalTrxId":"1555076804540","statusDetail":"Success","internalTrxId":"645","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013320","password":"3e664b26397029f08e161690df6b7f9d","destinationAddresses":["tel:8801866742387"],"message":"Taka 2 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"2","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190412194644","address":"tel:8801866742387","requestId":"1555076804886","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1555076804887","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
