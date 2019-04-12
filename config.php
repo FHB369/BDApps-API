@@ -1,9 +1,9 @@
 <?php
 
-define('hostname', 'localhost');
-define('username', 'root');
+define('hostname', 'https://rueful-bracket.000webhostapp.com');
+define('username', 'id9190723_root');
 define('password', '');
-define('db_name', 'nrick');
+define('db_name', 'id9190723_s');
 
 
 ?>
