@@ -1,0 +1,397 @@
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1514304407379
+         encoding=0
+         applicationId=APP_000001
+         message=Test Message
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":"1514304407379","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2017-12-26T22:06:47+0600","externalTrxId":"1514304407379","statusDetail":"Success","internalTrxId":"167","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20171226220647","address":"tel:8801866742387","requestId":"1514304407525","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1514304407526","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+Recieved Parameters From Bdapps :
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554834583663
+         encoding=0
+         applicationId=APP_013190
+         message=10151629
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":"1554834583663","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T00:29:43+0600","externalTrxId":"1554834583663","statusDetail":"Success","internalTrxId":"472","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410002943","address":"tel:8801866742387","requestId":"1554834583808","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554834583808","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554834888866
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=10151629
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":"1554834888866","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T00:34:48+0600","externalTrxId":"1554834888866","statusDetail":"Success","internalTrxId":"678","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410003448","address":"tel:8801866742387","requestId":"1554834888959","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554834888959","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554834912855
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=10151
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":"1554834912855","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T00:35:12+0600","externalTrxId":"1554834912855","statusDetail":"Success","internalTrxId":"618","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410003512","address":"tel:8801866742387","requestId":"1554834912929","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554834912929","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554834936719
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=10151
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":"1554834936719","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T00:35:36+0600","externalTrxId":"1554834936719","statusDetail":"Charging Error","internalTrxId":"640","statusCode":"E1308"}]
+[returned status code from debit is =  E1308]
+[recieved  status code from debit is    = E1308]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"You dont have enough balance ","deliveryStatusRequest":"0","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410003536","address":"tel:8801866742387","requestId":"1554834936822","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554834936822","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554834971292
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=10151
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":"1554834971292","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T00:36:11+0600","externalTrxId":"1554834971292","statusDetail":"Success","internalTrxId":"794","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410003611","address":"tel:8801866742387","requestId":"1554834971371","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554834971371","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554838572532
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=10151
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":"1554838572532","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T01:36:12+0600","externalTrxId":"1554838572532","statusDetail":"Success","internalTrxId":"720","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410013612","address":"tel:8801866742387","requestId":"1554838572613","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554838572613","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554838880256
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=NRICK 1
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"1","externalTrxId":"1554838880256","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T01:41:20+0600","externalTrxId":"1554838880256","statusDetail":"Success","internalTrxId":"602","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 1 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"1","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410014120","address":"tel:8801866742387","requestId":"1554838880352","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554838880352","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554838893127
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=NRICK 50
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"50","externalTrxId":"1554838893127","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T01:41:33+0600","externalTrxId":"1554838893127","statusDetail":"Success","internalTrxId":"608","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 50 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"50","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410014133","address":"tel:8801866742387","requestId":"1554838893222","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554838893222","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554839078032
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=NRICK 50
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"50","externalTrxId":"1554839078032","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T01:44:38+0600","externalTrxId":"1554839078032","statusDetail":"Charging Error","internalTrxId":"327","statusCode":"E1308"}]
+[returned status code from debit is =  E1308]
+[recieved  status code from debit is    = E1308]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"You dont have enough balance ","deliveryStatusRequest":"0","chargingAmount":"50","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410014438","address":"tel:8801866742387","requestId":"1554839078121","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554839078121","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554839092207
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=NRICK 5
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"5","externalTrxId":"1554839092207","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T01:44:52+0600","externalTrxId":"1554839092207","statusDetail":"Success","internalTrxId":"680","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 5 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"5","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410014452","address":"tel:8801866742387","requestId":"1554839092298","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554839092299","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554839101877
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=NRI 5
+         version=1.0
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554839134457
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=NRI 5
+         version=1.0
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554840241131
+         deliveryStatusRequest=1
+         encoding=0
+         applicationId=APP_013190
+         message=NRICK 5
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","subscriberId":"tel:8801866742387","amount":"5","externalTrxId":"1554840241131","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T02:04:01+0600","externalTrxId":"1554840241131","statusDetail":"Success","internalTrxId":"709","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013190","password":"ab016d826497b1946f44dea035fbc512","destinationAddresses":["tel:8801866742387"],"message":"Taka 5 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"5","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410020401","address":"tel:8801866742387","requestId":"1554840241231","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554840241231","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+[ content=*213*99#, address=tel:8801866742387, requestId=1554847351224, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554847369807
+         encoding=0
+         applicationId=APP_013213
+         message=NRICK 5
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"5","externalTrxId":"1554847369807","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-10T04:02:49+0600","externalTrxId":"1554847369807","statusDetail":"Success","internalTrxId":"980","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"Taka 5 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"5","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190410040249","address":"tel:8801866742387","requestId":"1554847369907","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554847369907","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+[ content=*213*99*1#, address=tel:8801866742387, requestId=1554847390126, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:8801866742387, requestId=1554847412483, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := main
+[ content=1, address=tel:8801866742387, requestId=1554847445312, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=1, address=tel:8801866742387, requestId=1554847456505, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := Mr.Dinesh Saparamadu.
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1554847466480, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := company-hist
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554975274971
+         encoding=0
+         applicationId=APP_013213
+         message=NRICK 20
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"20","externalTrxId":"1554975274971","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-11T15:34:35+0600","externalTrxId":"1554975274971","statusDetail":"Charging Error","internalTrxId":"414","statusCode":"E1308"}]
+[returned status code from debit is =  E1308]
+[recieved  status code from debit is    = E1308]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"You dont have enough balance ","deliveryStatusRequest":"0","chargingAmount":"20","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190411153437","address":"tel:8801866742387","requestId":"1554975277463","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554975277463","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554975301556
+         encoding=0
+         applicationId=APP_013213
+         message=NRICK 20
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"20","externalTrxId":"1554975301556","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-11T15:35:01+0600","externalTrxId":"1554975301556","statusDetail":"Success","internalTrxId":"593","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"Taka 20 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"20","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190411153501","address":"tel:8801866742387","requestId":"1554975301661","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554975301661","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554975349281
+         encoding=0
+         applicationId=APP_013213
+         message=NRICK 20
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"20","externalTrxId":"1554975349281","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"statusCode":"E1303","statusDetail":"IP address, which the request originates from, is not listed withing the allowed-host-address list"}]
+[returned status code from debit is =  E1303]
+[recieved  status code from debit is    = E1303]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"Service is no longer available ","deliveryStatusRequest":"0","chargingAmount":"20","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"statusCode":"E1303","requestId":"101904111535496468","statusDetail":"IP address, which the request originates from, is not listed withing the allowed-host-address list","destinationResponses":[{"statusCode":"E1303","timeStamp":"20190411153549","address":"tel:null","statusDetail":"IP address, which the request originates from, is not listed withing the allowed-host-address list","messageId":"101904111535496468"}],"version":"1.0"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554975383727
+         encoding=0
+         applicationId=APP_013213
+         message=NRICK 20
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"20","externalTrxId":"1554975383727","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-11T15:36:23+0600","externalTrxId":"1554975383727","statusDetail":"Success","internalTrxId":"104","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"Taka 20 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"20","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190411153623","address":"tel:8801866742387","requestId":"1554975383809","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554975383809","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+[ content=*213*99#, address=tel:8801866742387, requestId=1554975440498, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=3, address=tel:8801866742387, requestId=1554975454897, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Careers
+                    1.Software Engineer
+                    2.Project Manager
+                    999.Back
+[ content=2, address=tel:8801866742387, requestId=1554975464671, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := careers
+Selected response message := Experienced Project Manager ( email: careers@hsenidmobile.com )
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1554975473980, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := careers-hist
+Selected response message := Careers
+                    1.Software Engineer
+                    2.Project Manager
+                    999.Back
+[ content=999, address=tel:8801866742387, requestId=1554975480383, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := careers
+Selected response message := 1.Company
+                    2.Products
+                    3.Careers
+                    000.Exit
+[ content=000, address=tel:8801866742387, requestId=1554975486950, applicationId=APP_013213, encoding=440, version=1.0, sessionId=123, ussdOperation=mo-cont ]
+Previous Menu is := main
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554996065670
+         encoding=0
+         applicationId=APP_013213
+         message=nrick bappy 120 20
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"20","externalTrxId":"1554996065670","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-11T21:21:07+0600","externalTrxId":"1554996065670","statusDetail":"Success","internalTrxId":"151","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"Taka 20 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"20","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190411212107","address":"tel:8801866742387","requestId":"1554996067857","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554996067857","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554996102765
+         encoding=0
+         applicationId=APP_013213
+         message=nrick bappy 1vfd2 20
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"20","externalTrxId":"1554996102765","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-11T21:21:42+0600","externalTrxId":"1554996102765","statusDetail":"Success","internalTrxId":"154","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"Taka 20 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"20","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190411212142","address":"tel:8801866742387","requestId":"1554996102840","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554996102840","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554997117448
+         encoding=0
+         applicationId=APP_013213
+         message=nrick bappy 20za 25
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"25","externalTrxId":"1554997117448","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-11T21:38:37+0600","externalTrxId":"1554997117448","statusDetail":"Charging Error","internalTrxId":"999","statusCode":"E1308"}]
+[returned status code from debit is =  E1308]
+[recieved  status code from debit is    = E1308]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"You dont have enough balance ","deliveryStatusRequest":"0","chargingAmount":"25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190411213837","address":"tel:8801866742387","requestId":"1554997117696","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554997117696","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1554997162969
+         encoding=0
+         applicationId=APP_013213
+         message=nrick bappy 20za 25
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","subscriberId":"tel:8801866742387","amount":"25","externalTrxId":"1554997162969","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2019-04-11T21:39:23+0600","externalTrxId":"1554997162969","statusDetail":"Success","internalTrxId":"922","statusCode":"S1000"}]
+[returned status code from debit is =  S1000]
+[recieved  status code from debit is    = S1000]
+[ Sending param for Sms = {"applicationId":"APP_013213","password":"d7e47c3d18aa9b3fcbba2c035f018e46","destinationAddresses":["tel:8801866742387"],"message":"Taka 25 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20190411213923","address":"tel:8801866742387","requestId":"1554997163082","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1554997163082","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
+[ ============================##########========================]
+[ ============================##########========================]
