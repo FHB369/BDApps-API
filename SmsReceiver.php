@@ -16,11 +16,11 @@ class SmsReceiver {
 	// private $sourceAddress = "";
 	private $message;
 	private $requestId;
-	private $applicationId = "APP_013213";
+	private $applicationId = "APP_013320";
 	private $encoding = "0";
 	private $version = "1.0";
 	private $destinationAddresses;
-	private $passward = "d7e47c3d18aa9b3fcbba2c035f018e46";
+	private $passward = "3e664b26397029f08e161690df6b7f9d";
 
 	/*
 		decode the json data an get them to an array

@@ -17,7 +17,7 @@ include_once 'SmsSender.php';
 include_once 'Cass.php';
 include_once 'log.php';
 
-require_once 'purchaseControl.php';
+// require_once 'purchaseControl.php';
 
 ini_set( 'error_log', 'sms-app-error.log' );
 
@@ -55,7 +55,7 @@ try {
 	$charging_amount = $amount;
 
 	//change the check value to 1 for live production
-	$check = 1;
+	$check = 0;
 
 	switch ( $check ) {
 		case 0:
@@ -71,7 +71,7 @@ try {
 
 
 //=============================Debit Credit =====================================================
-	if($appName == "nrick"){
+	if($appName == "bndhn"){
 
 		$status_code = $debit->cass( $requestId, $destinationAddresses, $charging_amount );
 		
@@ -83,16 +83,16 @@ try {
 		
 			$responseMsg = "Taka " . $charging_amount . " is deducted from your account.";
 			
-			$purchase = new Purchase();
-    		if(isset($uid, $trxid, $charging_amount)){
+			// $purchase = new Purchase();
+    		// if(isset($uid, $trxid, $charging_amount)){
         		
-        		if(!empty($uid) && !empty($charging_amount) && !empty($trxid)){
+        	// 	if(!empty($uid) && !empty($charging_amount) && !empty($trxid)){
 
-            		$purchase-> add_purchase($uid, $trxid, $amount);
-        		} else {
-        		    echo json_encode("You must pass both fields"); 
-        		}
-    		}
+            // 		$purchase-> add_purchase($uid, $trxid, $amount);
+        	// 	} else {
+        	// 	    echo json_encode("You must pass both fields"); 
+        	// 	}
+    		// }
 
 			//$sn = new Send_to_sn( $shunno_cm_url );
 			//$sn->make_a_post_request_to_sn( $externalTxId, $status_code );
