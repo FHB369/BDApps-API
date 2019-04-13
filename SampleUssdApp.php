@@ -208,7 +208,7 @@ function loadUssdSender($sessionId, $responseMessage)
     try {
         // Create the sender object server url
 
-        $sender = new MtUssdSender("http://localhost:7000/ussd/send/");   // Application ussd-mt sending http url
+        $sender = new MtUssdSender("http://developer.bdapps.com/ussd/send/");   // Application ussd-mt sending http url
 //        $sender = new MtUssdSender("https://localhost:7443/ussd/send/"); // Application ussd-mt sending https url
         $response = $sender->ussd($applicationId, $password, $version, $responseMessage,
             $sessionId, $ussdOperation, $destinationAddress, $encoding, $chargingAmount);

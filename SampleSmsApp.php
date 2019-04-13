@@ -83,16 +83,16 @@ try {
 		
 			$responseMsg = "Taka " . $charging_amount . " is deducted from your account.";
 			
-			// $purchase = new Purchase();
-    		// if(isset($uid, $trxid, $charging_amount)){
+			$purchase = new Purchase();
+    		if(isset($uid, $trxid, $charging_amount)){
         		
-        	// 	if(!empty($uid) && !empty($charging_amount) && !empty($trxid)){
+        		if(!empty($uid) && !empty($charging_amount) && !empty($trxid)){
 
-            // 		$purchase-> add_purchase($uid, $trxid, $amount);
-        	// 	} else {
-        	// 	    echo json_encode("You must pass both fields"); 
-        	// 	}
-    		// }
+            		$purchase-> add_purchase($uid, $trxid, $amount);
+        		} else {
+        		    echo json_encode("You must pass both fields"); 
+        		}
+    		}
 
 			//$sn = new Send_to_sn( $shunno_cm_url );
 			//$sn->make_a_post_request_to_sn( $externalTxId, $status_code );
